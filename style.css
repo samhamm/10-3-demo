@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+ol {
+  color: blue;
+}
+
+ul {
+  color: red;
+}
+
+/*li {
+  color: cyan;
+}*/
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
